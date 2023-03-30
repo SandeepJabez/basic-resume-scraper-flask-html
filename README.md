@@ -7,11 +7,8 @@ Here is the Directory:
 .
 ├── app.py
 ├── static
-
 │   └── style.css
-
 └── templates
-
     └── index.html
 
 
