@@ -5,8 +5,12 @@ However, I hope that it can be a useful starting point for anyone interested in 
 
 Packages used:
 
-Flask (for web framework)
-Pandas (for data manipulation)
-PyPDF4 (for PDF text extraction)
-NLTK (for natural language processing)
-Scikit-learn (for machine learning)
+1.Flask (for web framework)
+
+2.Pandas (for data manipulation)
+
+3 PyPDF4 (for PDF text extraction)
+
+4 NLTK (for natural language processing)
+
+5 Scikit-learn (for machine learning)
